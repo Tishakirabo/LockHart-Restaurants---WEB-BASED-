@@ -1,0 +1,15 @@
+STUDENTS’ NAME:	KIRABO TISHA
+REG. NUMBER:		2018-B071-10043
+END OF SEMESTER TWO FINAL EXAM.
+ 
+The website idea is for Lockhart restaurants.
+SQL Statements for Database. 
+  	1: Create database lockhart;
+Table 1.
+	Sql: Create table users (
+U_id int(10) AUTO_INCREMENT PRIMARY KEY,
+Fname varchar(200) Not null,
+lname varchar(200) Not null,
+user_email  varchar(200) Not null,
+passwd varchar (200) Not null
+);
