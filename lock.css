@@ -1,0 +1,138 @@
+
+h2{
+    font-size: 30pt;
+    padding-left: 2%;
+}
+h3{
+    color: black;
+}
+h2 img{
+width: 5%;
+float: left;
+}
+img{
+    width: 100px;
+   align-self: left;
+}
+.liner{
+    width: 100%;
+    height: 20px;
+    background-color:  rgba(233, 180, 35, 0.767);
+    color: black;
+}
+.mtn-pdd2{
+    height: 400px;
+    text-align: left;
+    padding: 2%;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: wheat;
+ 
+}
+.about div img{
+  
+    width: 100%;
+}
+.about div h2{
+font-size: 20px;
+}
+.about div{
+    
+    padding: 3%;
+    width: 40%;
+    text-align: left;
+}
+.about{
+    background-color: cornsilk;
+    display: flex;
+    width: 100%;
+}
+.log-form{
+    padding: 10px;
+    width: 400px;
+  border: 2px solid rgb(206, 216, 206);
+  font-family: 'Segoe UI', Tahoma;
+}
+.log-form2{
+    border: rgb(233, 180, 7) solid 2px;
+    padding: 10px;
+  font-family: 'Segoe UI', Tahoma;
+}
+input{
+    width: 200px;
+    background-color: rgba(128, 128, 231, 0.11);
+    height: 17px;
+    border-radius: 10px;
+}
+.log-btn{
+    width: 100px;
+     height: 30px;
+    color: rgb(12, 1, 1);
+    background-color: rgb(6, 155, 241);
+}
+.log-btn2{
+      width: 200px;
+    height: 30px;
+    background-color: rgb(192, 6, 6);
+    color: rgb(250, 242, 242)
+}
+.heada{
+    width: 100%;
+    padding: 5px;
+
+}
+.heada ol{
+    display: flex;
+   background-color: rgb(16, 16, 207);
+}
+.heada ol li{
+   
+    justify-items: flex-end;
+list-style: none;
+text-decoration: none;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-left: 6px;
+}
+.heada ol li a{
+justify-items: flex-end;
+list-style: none;
+text-decoration: none;
+color: rgb(247, 246, 252);
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-left: 10px;
+}
+.empty{
+    width: 50%;
+}
+.success{
+    padding: 2%;
+    width: 300px;
+    border: 2px red solid;
+    border-radius: 12px;
+    font-weight: 600;
+color: green;
+background-color: grey;
+}
+.success h3{
+    text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT',  sans-serif;
+font-weight: 600;
+color: green;
+background-color: grey;
+}
+.success h4{
+    text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT',  sans-serif;
+font-weight: 600;
+color: green;
+background-color: grey;
+}
+.success button{
+ background-color: red;
+ color: rgb(206, 216, 206);
+ font-weight: 800;
+ font-size: 20px;
+ padding: 2%;
+ width: 50px;
+ border-radius: 12px;
+}

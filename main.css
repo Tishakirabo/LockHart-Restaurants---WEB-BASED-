@@ -1,0 +1,179 @@
+.box1{
+    width: 100%;
+    padding-top: 0%;
+    height: 10%;
+    display: flex;
+}
+.box1 .left-img{
+ width: 50%;
+ padding-right: 1%;
+ height: 400px;
+ background-image: url(img/le.jpg);
+ border-image-repeat: inherit;
+background-size: cover;
+align-content: center;
+color: red;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+}
+.box1 .right-img{
+width: 50%;
+padding-left: 1%;
+color: red;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+height: 400px;
+ background-image: url(img/gardens.jpg);
+ background-size: cover;
+align-content: center;
+}
+.vr{
+    width: 10%;
+    background-color: blue;
+}
+.samm{
+    width: 100%;
+    height: 400px;
+}
+.samm2{
+    width: 100%;
+    height: 400px;
+}
+h3{
+    color: rgb(245, 245, 248);
+}
+.box2{
+    height: 200px;
+    display: flex;
+    padding: 2%;
+    padding-bottom: 10px;
+    background-color: rgb(156, 6, 144);
+}
+
+.spa{
+    width: 5%;
+    background-color: rgb(156, 6, 144);
+}
+.shapa{
+ background-color: rgb(156, 6, 144);
+ width: 20%;
+ text-align: left;
+
+}
+.food-box1{
+    background-image: url(img/food/break.jpg);
+ background-size: 40% cover;
+align-content: center;
+ background-color: rgb(156, 6, 144);
+ border: black solid 2px;
+height: 90%;
+width: 100%;
+color: blue;
+} 
+.food-box2{
+    background-image: url(img/food/lunch.jpg);
+background-size: 30% cover;
+align-content: center;
+ background-color: rgb(156, 6, 144);
+ border: black solid 2px;
+height: 90%;
+width: 100%;
+color: blue;
+}
+.food-box3{
+    background-image: url(img/food/sup.jpg);
+background-size: 30% cover;
+align-content: center;
+ background-color: rgb(156, 6, 144);
+ border: black solid 2px;
+height: 90%;
+width: 100%;
+color: blue;
+}
+.food-box4{
+    background-image: url(img/food/tea.jpg);
+background-size:cover 95%;
+align-content: center;
+ background-color: rgb(156, 6, 144);
+ border: black solid 2px;
+height: 90%;
+width: 100%;
+color: blue;
+}
+/*...........................box2..ended....*/
+.box3{
+   height: 200px;
+    display: flex;
+    padding: 2%;
+    padding-bottom: 10px;
+    background-color: rgb(156, 6, 144);
+}
+.box3 div .locky a{
+    text-decoration: bold;
+    font-size: 20px;
+}
+.box3 div{
+    width: 25%;
+     background-color: rgb(156, 6, 144); 
+}
+.box3 div li{
+     list-style: none;
+     text-align: left;
+     padding-top: 3px;
+}
+.box3 div li a{
+    color: cornsilk;
+     text-decoration: none;
+     font-size: 18px;
+
+}
+.meja{
+    display: flex;
+    background-color: rgb(233, 241, 245);
+    width: 100%;
+}
+.meja div{
+    width: 23%;
+    padding: 1%;
+}
+.meja div img{
+    width: 50%;
+    padding: 1%;
+    height: 60px;
+}
+.mapy{
+    width: 80%;
+    height: 0 auto;
+}
+.loc img{
+width: 70%;
+}
+.wik{
+    background-color: blanchedalmond;
+    text-decoration: brown;
+    padding: 2%;
+    color:red;
+    font-weight: 700;
+    border: 2px dotted red;
+}
+.food-form{
+    border: 2px dotted rgb(192, 129, 13);
+    background-color: white;
+    text-align: left;
+    line-height: 20px;
+    padding: 2%;
+    border-radius: 5%;
+    width: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.food-form a{
+text-align: center;
+}
+.sale{
+    background-color: yellowgreen;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 2%;
+}
